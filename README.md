@@ -15,8 +15,8 @@ ALLM-A1/
 │       └── chat_sft_staged.py   # assignment modification
 ...below the folders are outputs...
 ├── data/                        # data/checkpoints, controlled by `NANOCHAT_BASE_DIR`
-├── logs/                        # raw experiment logs, manually fixed in task codes
-└── results/                     # report-ready artifacts, manually fixed in task codes
+├── logs/                        # raw experiment logs, fixed in task codes
+└── results/                     # report-ready artifacts, fixed in task codes
 ```
 
 `data/` does not need to be committed. Its location is controlled by `NANOCHAT_BASE_DIR`, so another user can store nanochat data anywhere on their machine.

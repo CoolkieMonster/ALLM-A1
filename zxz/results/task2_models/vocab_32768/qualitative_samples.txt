@@ -1,0 +1,68 @@
+2026-09-12 22:01:35,971 - nanochat.common - [32m[1mINFO[0m - Distributed world size: 1
+2026-09-12 22:01:35,972 - nanochat.checkpoint_manager - [32m[1mINFO[0m - Loading model from /local/s4414268/nanochat/results/task2_models/vocab_32768/base_checkpoints/d2_bpb with step 420
+2026-09-12 22:01:36,223 - nanochat.checkpoint_manager - [32m[1mINFO[0m - Building model with config: {'sequence_len': 2048, 'vocab_size': 32768, 'n_layer': 2, 'n_head': 1, 'n_kv_head': 1, 'n_embd': 128, 'window_pattern': 'SSSL'}
+Evaluating model: base_model (step 420)
+Eval modes: sample
+
+================================================================================
+Model Samples
+================================================================================
+
+Conditioned samples:
+--------------------------------------------------------------------------------
+<|bos|>The capital of France is the first time of the world's largest in the world's largest in the world
+--------------------------------------------------------------------------------
+<|bos|>The chemical symbol of gold is a chemical symbol of gold and gold. It is a chemical symbol of gold and
+--------------------------------------------------------------------------------
+<|bos|>If yesterday was Friday, then tomorrow will be a great way to get a little bit of a year. I'm not sure
+--------------------------------------------------------------------------------
+<|bos|>The opposite of hot is the most common cause of the most common cause of the most common cause of the
+--------------------------------------------------------------------------------
+<|bos|>The planets of the solar system are: the solar system of the solar system, the solar system, and the solar system
+--------------------------------------------------------------------------------
+<|bos|>My favorite color is a great way to make a great way to make a great way to make a
+--------------------------------------------------------------------------------
+<|bos|>If 5*x + 3 = 13, then x is 1.2x + 3 = 1.2x + 
+
+Unconditioned samples:
+--------------------------------------------------------------------------------
+<|bos|>Dr MS. murderously sympathetic, then he was in Sarah for Nelights in Grand Canyon, who kept the part of his talents led to a growing heart disease in North America.
+ Unfortunately, I found rune was important for a wider field by his face, suggesting that they hung and dead. Conmarks introduce a backdrop that was made up of a symbolic gradient than a straight field in the body's fear I hold it.
+Later entice Kyle on the feet and realized it was going to be a place for himself with a different significant step digging to the limbs in the arms in the rear has been very important since major
+--------------------------------------------------------------------------------
+<|bos|>As we fill out the lid-offer with Honda Honda ES-C consumer, the Apple's system, until Spz Flec compiled an, adaptable or non-mutty specific request. The server costs are not available on a top seter ??k/Getty Images
+
+Question: What do if you don't represent any other manufacturer they may be able to consider to be available? Answer: If you notice any type of or updated, please let look this walk or run it, give a spare tires a wonderful look. The historical data collection is it that tangyly something unique about the related configuration to a unattractive feature like a vintage shrimp
+--------------------------------------------------------------------------------
+<|bos|>Gloss one of the most feared jet engine and controlled conditions. The liquid fuel engine reaction is a fighter with high blood pressure nozzle that we turn proteins that do we have a PCK and a proponent effect. What is the mechanism that drives an optically-component of engine known?
+Chronic oil change and very common withdrawal that causes a population is the only first operational f of methane to penetrate the engine.
+Early preparations74 fulfilled by the Cartime life convicts the Xuniform, with a double helix. Introduce salt can be multiple times faster muffler, the time soybean stops the phloem pocket motion and the work. The
+--------------------------------------------------------------------------------
+<|bos|>still history 650,672-081.
+TelkSpog Types of Quite Questions
+On June 27, 2012Ns 216,1938
+wholetk HFBlockN 2012
+The non-profit agency of Agriculture Advisory Committee is from Drops that they need to: Drops and sticks 67 undertaken a survey of equipment, splitfting a rangesogen, makes this easy task to perform a cold load at 600 microK particles, a among national audience is a unique and romantic diversity that impacts national and regional-level engineering that can mimic.
+The term for "
+--------------------------------------------------------------------------------
+<|bos|>Exema
+We bring ourselves to your deep land! up bound a Mask that needs to be richer. You can row three plastic to the top three creative aspects of which you can check for a click on, depending has at the level of 0.4 neighborhoods.
+
+Out of the divide and create a sound bar-up. Continue reading steps up to look at clarity caused by the property. This gives you an appreciation of the medium frequency and awareness of the stream recognition of the effects of low values of a combination of two to two AC, a type of expression that regulates a high variety of ecological properties.
+ shallows your structures much faster than
+--------------------------------------------------------------------------------
+<|bos|>Multi-factor by Cracks
+
+A/Brample differ from mittressure, White Golnequin PIRD Brampler.8+1604 per cent in coat or color, this usually happens as a colored dress that is print it with skin and absorption (birth) made that can cause cichlids, irregular contaminants and burns.
+A
+The color and colors of color. The soft coats of the sound is aier nature of the day. If the color is that orange coating vertically (collapse color; the color of projections can actually create visual representations through the color, depending on the spots being colored. Knowing what
+--------------------------------------------------------------------------------
+<|bos|>“regardless of the business cry”!
+The Errors of this a problem is that these identically true and could be the most important part of education and conveying neurodevelopment to organise the structure and extend beyond individual assistants that work directly to the job. It is not just about it; the identification of students devours and their biological clues to other students, and its scientific action immediately received safety throughout the social system,” said Dr CracksD.
+It
+HOMFW produces 20 minutes about communication with dominance of crime and distracted mentoring.
+"A little we try. Follow my knowledge levels if you do a tests, you'll
+--------------------------------------------------------------------------------
+<|bos|>According To 2004, the study suggests that the sludge was in 1992, when the Nitrogen balloon was absorbed in twenty-five percent of the paper in London (though 108 percent). Nowadays, researchers have noticed the accumulation of the bacterium in 2004.
+
+"Earlier research published the paper published a hot vessel and the Sciencehip also demonstrated a natural vitamin source: "Some people think over these questions" thinks about 10 countries includes information on the world, all the those 130 percent of the medicines used. Green are reflected in September 2005, and there is a European daily adulteration Clinical Biological Cont

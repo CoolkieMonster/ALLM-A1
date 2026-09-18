@@ -1,0 +1,148 @@
+{"depth": 2, "eval_every": 10, "eval_tokens": 1048576, "num_iterations": 132, "record": "config", "total_batch_size": 131072, "total_training_tokens": 17301504, "vocab_size": 8192}
+{"bpb": 3.20658025413735, "record": "metric", "split": "validation", "step": 0, "tokens_seen": 0}
+{"bpb": 3.2038278848010266, "loss": 9.011229515075684, "record": "metric", "split": "train", "step": 0, "tokens_seen": 131072}
+{"bpb": 3.2107868411878338, "loss": 9.007156372070312, "record": "metric", "split": "train", "step": 1, "tokens_seen": 262144}
+{"bpb": 3.220789514212646, "loss": 8.99833869934082, "record": "metric", "split": "train", "step": 2, "tokens_seen": 393216}
+{"bpb": 3.253504030928275, "loss": 8.986034393310547, "record": "metric", "split": "train", "step": 3, "tokens_seen": 524288}
+{"bpb": 3.175107115371743, "loss": 8.96544361114502, "record": "metric", "split": "train", "step": 4, "tokens_seen": 655360}
+{"bpb": 3.188137446078981, "loss": 8.935606002807617, "record": "metric", "split": "train", "step": 5, "tokens_seen": 786432}
+{"bpb": 3.1648085181354038, "loss": 8.898567199707031, "record": "metric", "split": "train", "step": 6, "tokens_seen": 917504}
+{"bpb": 3.1259256416448777, "loss": 8.816186904907227, "record": "metric", "split": "train", "step": 7, "tokens_seen": 1048576}
+{"bpb": 3.092523608853793, "loss": 8.716851234436035, "record": "metric", "split": "train", "step": 8, "tokens_seen": 1179648}
+{"bpb": 3.0280476014581374, "loss": 8.58334732055664, "record": "metric", "split": "train", "step": 9, "tokens_seen": 1310720}
+{"bpb": 2.985901820233183, "record": "metric", "split": "validation", "step": 10, "tokens_seen": 1310720}
+{"bpb": 2.969903810302161, "loss": 8.347402572631836, "record": "metric", "split": "train", "step": 10, "tokens_seen": 1441792}
+{"bpb": 2.8740505160528125, "loss": 8.139436721801758, "record": "metric", "split": "train", "step": 11, "tokens_seen": 1572864}
+{"bpb": 2.7852609812124904, "loss": 7.910975933074951, "record": "metric", "split": "train", "step": 12, "tokens_seen": 1703936}
+{"bpb": 2.7257137794397788, "loss": 7.636240482330322, "record": "metric", "split": "train", "step": 13, "tokens_seen": 1835008}
+{"bpb": 2.6677169463275687, "loss": 7.324509143829346, "record": "metric", "split": "train", "step": 14, "tokens_seen": 1966080}
+{"bpb": 2.6060970454904266, "loss": 7.228268623352051, "record": "metric", "split": "train", "step": 15, "tokens_seen": 2097152}
+{"bpb": 2.5329131892628953, "loss": 7.112240791320801, "record": "metric", "split": "train", "step": 16, "tokens_seen": 2228224}
+{"bpb": 2.4506756043024605, "loss": 6.9027228355407715, "record": "metric", "split": "train", "step": 17, "tokens_seen": 2359296}
+{"bpb": 2.4329748468587793, "loss": 6.846912384033203, "record": "metric", "split": "train", "step": 18, "tokens_seen": 2490368}
+{"bpb": 2.353212220540219, "loss": 6.633368492126465, "record": "metric", "split": "train", "step": 19, "tokens_seen": 2621440}
+{"bpb": 2.3306402242959887, "record": "metric", "split": "validation", "step": 20, "tokens_seen": 2621440}
+{"bpb": 2.378095244204255, "loss": 6.5810017585754395, "record": "metric", "split": "train", "step": 20, "tokens_seen": 2752512}
+{"bpb": 2.355176197375099, "loss": 6.631939888000488, "record": "metric", "split": "train", "step": 21, "tokens_seen": 2883584}
+{"bpb": 2.269504725633455, "loss": 6.412586212158203, "record": "metric", "split": "train", "step": 22, "tokens_seen": 3014656}
+{"bpb": 2.261151236398196, "loss": 6.365266799926758, "record": "metric", "split": "train", "step": 23, "tokens_seen": 3145728}
+{"bpb": 2.2626774135148224, "loss": 6.181349754333496, "record": "metric", "split": "train", "step": 24, "tokens_seen": 3276800}
+{"bpb": 2.169630208265077, "loss": 6.181041717529297, "record": "metric", "split": "train", "step": 25, "tokens_seen": 3407872}
+{"bpb": 2.1958595509104883, "loss": 6.025786399841309, "record": "metric", "split": "train", "step": 26, "tokens_seen": 3538944}
+{"bpb": 2.185753387836073, "loss": 5.988227844238281, "record": "metric", "split": "train", "step": 27, "tokens_seen": 3670016}
+{"bpb": 2.1483399547503246, "loss": 6.043233871459961, "record": "metric", "split": "train", "step": 28, "tokens_seen": 3801088}
+{"bpb": 2.1303757990973815, "loss": 5.978393077850342, "record": "metric", "split": "train", "step": 29, "tokens_seen": 3932160}
+{"bpb": 2.1144351878091805, "record": "metric", "split": "validation", "step": 30, "tokens_seen": 3932160}
+{"bpb": 2.104588925799036, "loss": 5.965936183929443, "record": "metric", "split": "train", "step": 30, "tokens_seen": 4063232}
+{"bpb": 2.128764010082499, "loss": 5.918718338012695, "record": "metric", "split": "train", "step": 31, "tokens_seen": 4194304}
+{"bpb": 2.0825084975131034, "loss": 5.774505615234375, "record": "metric", "split": "train", "step": 32, "tokens_seen": 4325376}
+{"bpb": 2.117203473680083, "loss": 5.808600425720215, "record": "metric", "split": "train", "step": 33, "tokens_seen": 4456448}
+{"bpb": 2.0480624868207125, "loss": 5.766872882843018, "record": "metric", "split": "train", "step": 34, "tokens_seen": 4587520}
+{"bpb": 2.045446820781995, "loss": 5.841300010681152, "record": "metric", "split": "train", "step": 35, "tokens_seen": 4718592}
+{"bpb": 2.0643999352442157, "loss": 5.758785247802734, "record": "metric", "split": "train", "step": 36, "tokens_seen": 4849664}
+{"bpb": 2.021883027132405, "loss": 5.655595302581787, "record": "metric", "split": "train", "step": 37, "tokens_seen": 4980736}
+{"bpb": 2.0288273247373696, "loss": 5.679277420043945, "record": "metric", "split": "train", "step": 38, "tokens_seen": 5111808}
+{"bpb": 2.01150067293059, "loss": 5.603618144989014, "record": "metric", "split": "train", "step": 39, "tokens_seen": 5242880}
+{"bpb": 2.0142492258754148, "record": "metric", "split": "validation", "step": 40, "tokens_seen": 5242880}
+{"bpb": 2.0095589121787873, "loss": 5.59477424621582, "record": "metric", "split": "train", "step": 40, "tokens_seen": 5373952}
+{"bpb": 2.030485341064445, "loss": 5.772415637969971, "record": "metric", "split": "train", "step": 41, "tokens_seen": 5505024}
+{"bpb": 1.9951067002775826, "loss": 5.676990032196045, "record": "metric", "split": "train", "step": 42, "tokens_seen": 5636096}
+{"bpb": 1.958333566387633, "loss": 5.476922512054443, "record": "metric", "split": "train", "step": 43, "tokens_seen": 5767168}
+{"bpb": 1.9974696322636387, "loss": 5.5999298095703125, "record": "metric", "split": "train", "step": 44, "tokens_seen": 5898240}
+{"bpb": 2.0073308796800724, "loss": 5.564186096191406, "record": "metric", "split": "train", "step": 45, "tokens_seen": 6029312}
+{"bpb": 2.0094941452166974, "loss": 5.582763195037842, "record": "metric", "split": "train", "step": 46, "tokens_seen": 6160384}
+{"bpb": 1.9558321251526067, "loss": 5.502358436584473, "record": "metric", "split": "train", "step": 47, "tokens_seen": 6291456}
+{"bpb": 1.9737499720446843, "loss": 5.4962873458862305, "record": "metric", "split": "train", "step": 48, "tokens_seen": 6422528}
+{"bpb": 1.9490155339064739, "loss": 5.567870140075684, "record": "metric", "split": "train", "step": 49, "tokens_seen": 6553600}
+{"bpb": 1.958614816851376, "record": "metric", "split": "validation", "step": 50, "tokens_seen": 6553600}
+{"bpb": 1.9780685469041903, "loss": 5.615475654602051, "record": "metric", "split": "train", "step": 50, "tokens_seen": 6684672}
+{"bpb": 1.9326541093617666, "loss": 5.368952751159668, "record": "metric", "split": "train", "step": 51, "tokens_seen": 6815744}
+{"bpb": 1.9828221078267787, "loss": 5.470596790313721, "record": "metric", "split": "train", "step": 52, "tokens_seen": 6946816}
+{"bpb": 1.9718493410495956, "loss": 5.452359676361084, "record": "metric", "split": "train", "step": 53, "tokens_seen": 7077888}
+{"bpb": 1.9529751442732866, "loss": 5.4159135818481445, "record": "metric", "split": "train", "step": 54, "tokens_seen": 7208960}
+{"bpb": 1.9261595687987807, "loss": 5.4308881759643555, "record": "metric", "split": "train", "step": 55, "tokens_seen": 7340032}
+{"bpb": 1.9654348359022347, "loss": 5.472251892089844, "record": "metric", "split": "train", "step": 56, "tokens_seen": 7471104}
+{"bpb": 1.9696433826184272, "loss": 5.42264986038208, "record": "metric", "split": "train", "step": 57, "tokens_seen": 7602176}
+{"bpb": 1.9721550775341168, "loss": 5.397853374481201, "record": "metric", "split": "train", "step": 58, "tokens_seen": 7733248}
+{"bpb": 1.897065505760798, "loss": 5.449492454528809, "record": "metric", "split": "train", "step": 59, "tokens_seen": 7864320}
+{"bpb": 1.9181072749949162, "record": "metric", "split": "validation", "step": 60, "tokens_seen": 7864320}
+{"bpb": 1.8931336167977149, "loss": 5.351137161254883, "record": "metric", "split": "train", "step": 60, "tokens_seen": 7995392}
+{"bpb": 1.908719758058989, "loss": 5.357194900512695, "record": "metric", "split": "train", "step": 61, "tokens_seen": 8126464}
+{"bpb": 1.9384177013288768, "loss": 5.3672380447387695, "record": "metric", "split": "train", "step": 62, "tokens_seen": 8257536}
+{"bpb": 1.9407858577181547, "loss": 5.326684951782227, "record": "metric", "split": "train", "step": 63, "tokens_seen": 8388608}
+{"bpb": 1.9182752988686764, "loss": 5.441149711608887, "record": "metric", "split": "train", "step": 64, "tokens_seen": 8519680}
+{"bpb": 1.8960449382361535, "loss": 5.378443241119385, "record": "metric", "split": "train", "step": 65, "tokens_seen": 8650752}
+{"bpb": 1.9215558692229546, "loss": 5.370302200317383, "record": "metric", "split": "train", "step": 66, "tokens_seen": 8781824}
+{"bpb": 1.9262980869139072, "loss": 5.329136371612549, "record": "metric", "split": "train", "step": 67, "tokens_seen": 8912896}
+{"bpb": 1.9103135232072346, "loss": 5.309432029724121, "record": "metric", "split": "train", "step": 68, "tokens_seen": 9043968}
+{"bpb": 1.8887259286236673, "loss": 5.241008758544922, "record": "metric", "split": "train", "step": 69, "tokens_seen": 9175040}
+{"bpb": 1.8777053812074693, "record": "metric", "split": "validation", "step": 70, "tokens_seen": 9175040}
+{"bpb": 1.9048831323284117, "loss": 5.27141809463501, "record": "metric", "split": "train", "step": 70, "tokens_seen": 9306112}
+{"bpb": 1.8637577002091748, "loss": 5.186176776885986, "record": "metric", "split": "train", "step": 71, "tokens_seen": 9437184}
+{"bpb": 1.8679403815745819, "loss": 5.216890335083008, "record": "metric", "split": "train", "step": 72, "tokens_seen": 9568256}
+{"bpb": 1.8502069642441161, "loss": 5.2319440841674805, "record": "metric", "split": "train", "step": 73, "tokens_seen": 9699328}
+{"bpb": 1.8728278808942809, "loss": 5.292475700378418, "record": "metric", "split": "train", "step": 74, "tokens_seen": 9830400}
+{"bpb": 1.8645827424775354, "loss": 5.1907453536987305, "record": "metric", "split": "train", "step": 75, "tokens_seen": 9961472}
+{"bpb": 1.8646667388170557, "loss": 5.18133544921875, "record": "metric", "split": "train", "step": 76, "tokens_seen": 10092544}
+{"bpb": 1.8484256195075597, "loss": 5.2285966873168945, "record": "metric", "split": "train", "step": 77, "tokens_seen": 10223616}
+{"bpb": 1.839209847784963, "loss": 5.196930408477783, "record": "metric", "split": "train", "step": 78, "tokens_seen": 10354688}
+{"bpb": 1.854096389625664, "loss": 5.1824188232421875, "record": "metric", "split": "train", "step": 79, "tokens_seen": 10485760}
+{"bpb": 1.8330036789520714, "record": "metric", "split": "validation", "step": 80, "tokens_seen": 10485760}
+{"bpb": 1.853690407374307, "loss": 5.17719841003418, "record": "metric", "split": "train", "step": 80, "tokens_seen": 10616832}
+{"bpb": 1.8645871404221301, "loss": 5.120991230010986, "record": "metric", "split": "train", "step": 81, "tokens_seen": 10747904}
+{"bpb": 1.79380584396993, "loss": 5.222982883453369, "record": "metric", "split": "train", "step": 82, "tokens_seen": 10878976}
+{"bpb": 1.8260424847593222, "loss": 5.06102180480957, "record": "metric", "split": "train", "step": 83, "tokens_seen": 11010048}
+{"bpb": 1.8487530479614267, "loss": 5.105712890625, "record": "metric", "split": "train", "step": 84, "tokens_seen": 11141120}
+{"bpb": 1.8209700656488252, "loss": 5.196819305419922, "record": "metric", "split": "train", "step": 85, "tokens_seen": 11272192}
+{"bpb": 1.8454598796960506, "loss": 5.079954624176025, "record": "metric", "split": "train", "step": 86, "tokens_seen": 11403264}
+{"bpb": 1.7832126174068892, "loss": 4.955926895141602, "record": "metric", "split": "train", "step": 87, "tokens_seen": 11534336}
+{"bpb": 1.8140946524119115, "loss": 4.994841575622559, "record": "metric", "split": "train", "step": 88, "tokens_seen": 11665408}
+{"bpb": 1.8405927832836926, "loss": 4.965464115142822, "record": "metric", "split": "train", "step": 89, "tokens_seen": 11796480}
+{"bpb": 1.7930748235443696, "record": "metric", "split": "validation", "step": 90, "tokens_seen": 11796480}
+{"bpb": 1.7871654026859651, "loss": 4.985361099243164, "record": "metric", "split": "train", "step": 90, "tokens_seen": 11927552}
+{"bpb": 1.8217080402871013, "loss": 5.058599472045898, "record": "metric", "split": "train", "step": 91, "tokens_seen": 12058624}
+{"bpb": 1.7810984542539363, "loss": 5.057577133178711, "record": "metric", "split": "train", "step": 92, "tokens_seen": 12189696}
+{"bpb": 1.7904500368030467, "loss": 5.09683895111084, "record": "metric", "split": "train", "step": 93, "tokens_seen": 12320768}
+{"bpb": 1.7805086567640014, "loss": 5.000602722167969, "record": "metric", "split": "train", "step": 94, "tokens_seen": 12451840}
+{"bpb": 1.7635774232683143, "loss": 4.963393211364746, "record": "metric", "split": "train", "step": 95, "tokens_seen": 12582912}
+{"bpb": 1.7932162993466576, "loss": 5.178216934204102, "record": "metric", "split": "train", "step": 96, "tokens_seen": 12713984}
+{"bpb": 1.738963871071686, "loss": 5.000055313110352, "record": "metric", "split": "train", "step": 97, "tokens_seen": 12845056}
+{"bpb": 1.7578729933232207, "loss": 4.942700386047363, "record": "metric", "split": "train", "step": 98, "tokens_seen": 12976128}
+{"bpb": 1.7407326052017207, "loss": 4.812073707580566, "record": "metric", "split": "train", "step": 99, "tokens_seen": 13107200}
+{"bpb": 1.7619117005251343, "record": "metric", "split": "validation", "step": 100, "tokens_seen": 13107200}
+{"bpb": 1.7808249064990873, "loss": 4.978392601013184, "record": "metric", "split": "train", "step": 100, "tokens_seen": 13238272}
+{"bpb": 1.7756288925415264, "loss": 5.036910533905029, "record": "metric", "split": "train", "step": 101, "tokens_seen": 13369344}
+{"bpb": 1.777518410712954, "loss": 5.070794105529785, "record": "metric", "split": "train", "step": 102, "tokens_seen": 13500416}
+{"bpb": 1.7682630632169891, "loss": 4.946417808532715, "record": "metric", "split": "train", "step": 103, "tokens_seen": 13631488}
+{"bpb": 1.7228967072664774, "loss": 4.829705238342285, "record": "metric", "split": "train", "step": 104, "tokens_seen": 13762560}
+{"bpb": 1.7720580505333547, "loss": 4.867342948913574, "record": "metric", "split": "train", "step": 105, "tokens_seen": 13893632}
+{"bpb": 1.7725792219424135, "loss": 5.009641170501709, "record": "metric", "split": "train", "step": 106, "tokens_seen": 14024704}
+{"bpb": 1.7555463334970782, "loss": 4.85811185836792, "record": "metric", "split": "train", "step": 107, "tokens_seen": 14155776}
+{"bpb": 1.7466638390970481, "loss": 4.871962547302246, "record": "metric", "split": "train", "step": 108, "tokens_seen": 14286848}
+{"bpb": 1.7467538387795694, "loss": 4.8787946701049805, "record": "metric", "split": "train", "step": 109, "tokens_seen": 14417920}
+{"bpb": 1.7367438506440886, "record": "metric", "split": "validation", "step": 110, "tokens_seen": 14417920}
+{"bpb": 1.7464996635019308, "loss": 4.923859119415283, "record": "metric", "split": "train", "step": 110, "tokens_seen": 14548992}
+{"bpb": 1.774195759182604, "loss": 4.7811360359191895, "record": "metric", "split": "train", "step": 111, "tokens_seen": 14680064}
+{"bpb": 1.7470148878906526, "loss": 4.91782808303833, "record": "metric", "split": "train", "step": 112, "tokens_seen": 14811136}
+{"bpb": 1.736410370055243, "loss": 4.89506196975708, "record": "metric", "split": "train", "step": 113, "tokens_seen": 14942208}
+{"bpb": 1.7604565987125265, "loss": 4.849302768707275, "record": "metric", "split": "train", "step": 114, "tokens_seen": 15073280}
+{"bpb": 1.737711161492254, "loss": 4.9517669677734375, "record": "metric", "split": "train", "step": 115, "tokens_seen": 15204352}
+{"bpb": 1.7705792583653495, "loss": 4.8879194259643555, "record": "metric", "split": "train", "step": 116, "tokens_seen": 15335424}
+{"bpb": 1.6976857119118063, "loss": 4.8384294509887695, "record": "metric", "split": "train", "step": 117, "tokens_seen": 15466496}
+{"bpb": 1.7392805909013682, "loss": 4.805406093597412, "record": "metric", "split": "train", "step": 118, "tokens_seen": 15597568}
+{"bpb": 1.758259086610036, "loss": 4.997863292694092, "record": "metric", "split": "train", "step": 119, "tokens_seen": 15728640}
+{"bpb": 1.7187019800031942, "record": "metric", "split": "validation", "step": 120, "tokens_seen": 15728640}
+{"bpb": 1.7400339988002171, "loss": 4.846267223358154, "record": "metric", "split": "train", "step": 120, "tokens_seen": 15859712}
+{"bpb": 1.7650987174893789, "loss": 4.848394393920898, "record": "metric", "split": "train", "step": 121, "tokens_seen": 15990784}
+{"bpb": 1.7356762141489899, "loss": 4.835693359375, "record": "metric", "split": "train", "step": 122, "tokens_seen": 16121856}
+{"bpb": 1.7083427351724136, "loss": 4.835042953491211, "record": "metric", "split": "train", "step": 123, "tokens_seen": 16252928}
+{"bpb": 1.7497460433784862, "loss": 4.788172721862793, "record": "metric", "split": "train", "step": 124, "tokens_seen": 16384000}
+{"bpb": 1.7234481480094037, "loss": 4.767932891845703, "record": "metric", "split": "train", "step": 125, "tokens_seen": 16515072}
+{"bpb": 1.688166295046938, "loss": 4.842490196228027, "record": "metric", "split": "train", "step": 126, "tokens_seen": 16646144}
+{"bpb": 1.7236980979336145, "loss": 4.7687177658081055, "record": "metric", "split": "train", "step": 127, "tokens_seen": 16777216}
+{"bpb": 1.7247167471057288, "loss": 4.824648857116699, "record": "metric", "split": "train", "step": 128, "tokens_seen": 16908288}
+{"bpb": 1.7306495185781474, "loss": 4.767427921295166, "record": "metric", "split": "train", "step": 129, "tokens_seen": 17039360}
+{"bpb": 1.7077988275175247, "record": "metric", "split": "validation", "step": 130, "tokens_seen": 17039360}
+{"bpb": 1.71176716805714, "loss": 4.867425918579102, "record": "metric", "split": "train", "step": 130, "tokens_seen": 17170432}
+{"bpb": 1.7074285104039941, "loss": 4.835052490234375, "record": "metric", "split": "train", "step": 131, "tokens_seen": 17301504}
+{"bpb": 1.7065386940384124, "record": "metric", "split": "validation", "step": 132, "tokens_seen": 17301504}

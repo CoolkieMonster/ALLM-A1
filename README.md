@@ -71,13 +71,13 @@ python task4.py
 
 ### Task 1
 
-`task1_train.py` checks/downloads CLIMBMix and trains the 8K and 32K BPE tokenizers on the same 500 MB sample. `task1_report.py` produces the compression, failure-case and merge-trace evidence. If one tokenizer is missing, the report continues with the available tokenizer and prints a warning.
+`task1_train.py` checks/downloads CLIMBMix and trains the 8K and 32K BPE tokenizers on the same 500 MB sample. `task1_report.py` produces the compression, failure-case and merge-trace evidence.
 
 ### Task 2
 
 `task2.py` trains a depth-2 model for each available Task-1 tokenizer. The modified `base_train.py` reports BPB from the actual optimizer-batch training data while validation BPB is measured on a fixed held-out sample. Raw train BPB is kept in the logs/CSV; the report plot applies an EMA (`beta=0.9`) and samples the train curve only at validation steps, so the two plotted curves use aligned optimizer steps.
 
-The script also writes the scaling-law summary and five raw pre-trained completions. Missing tokenizer alternatives are skipped instead of stopping the whole task.
+The script also writes the scaling-law summary and five raw pre-trained completions.
 
 To enable W&B, change `WANDB_RUN_PREFIX = "dummy"` near the top of `task2.py`.
 
@@ -95,6 +95,3 @@ The modified `scripts/chat_sft.py` contains both stages. Benchmark evaluation us
 
 `task4.py` uses the final SFT checkpoint when available, then falls back to the mid-trained or pretrained model. It runs the five fixed prompts at temperatures `0.1`, `0.7` and `1.5`. Each prompt is saved as its own text file under `results/task4/report/`.
 
-## Notes
-
-The root task scripts intentionally have no subcommands. Important experiment settings such as device batch size and evaluation interval are grouped near the top of each file. Re-running a task overwrites the corresponding generated experiment outputs where appropriate.

@@ -1,0 +1,80 @@
+Nanochat changes used for Assignment 1
+======================================
+
+Line references compare the bundled upstream nanochat files with the final files in this repository. Modified regions in code are marked with ####[MODIFY].
+
+1. nanochat/loss_eval.py
+------------------------
+Purpose: expose the BPB numerator/byte-count calculation so training and validation use the same byte accounting.
+
+- Shared helpers `bpb_stats()` and `finalize_bpb()`
+  Upstream: insertion after line 7
+  Final: lines 8-37
+  Function: accumulate token NLL and represented bytes; reduce across ranks and convert nats to bits/byte.
+
+- `evaluate_bpb()` byte accounting
+  Upstream: lines 34-53
+  Final: lines 66-70
+  Function: replace the duplicated masking/byte-count block with `bpb_stats()`. Validation BPB semantics are unchanged.
+
+2. scripts/base_train.py
+------------------------
+Purpose: log online training BPB from the same optimizer-batch data used for gradient descent, while keeping the original train/loss diagnostic.
+
+- BPB helper import
+  Upstream: line 33
+  Final: lines 33-34
+
+- Training micro-batch loop
+  Upstream: lines 510-518
+  Final: lines 511-526
+  Function: request unreduced CE, keep the original mean CE for optimization, and accumulate BPB statistics over every gradient-accumulation micro-batch.
+
+- Full optimizer-batch BPB finalization
+  Upstream: line 541
+  Final: lines 549-551
+  Function: combine all micro-batches (and DDP ranks when used) into one train BPB value per optimizer step.
+
+- Terminal/W&B logging
+  Upstream: lines 567-580
+  Final: lines 577-594
+  Function: report `train bpb`, use completed optimizer-step numbering, and expose `train/bpb` to W&B at the normal/validation-aligned logging points.
+
+3. scripts/chat_sft.py
+----------------------
+Purpose: use one SFT script for the assignment's two stages: reasoning/knowledge mid-training followed by SmolTalk instruction SFT.
+
+- Stage input/output CLI
+  Upstream: insertion after line 43
+  Final: lines 44-48
+  Function: select `midtrain` or `sft`, the checkpoint to load, and the output checkpoint tag.
+
+- Stage-aware checkpoint loading
+  Upstream: lines 93-94
+  Final: lines 98-108
+  Function: mid-training loads the base model; SFT loads the mid-training checkpoint.
+
+- Resolved inherited settings
+  Upstream: insertion after line 115
+  Final: lines 131-133
+  Function: save the resolved batch/LR configuration so the next stage inherits actual values instead of `None` CLI defaults.
+
+- Optimizer-state source
+  Upstream: line 140
+  Final: lines 157-158
+  Function: load optimizer state from the same checkpoint source used to initialize the current stage.
+
+- Stage-specific datasets
+  Upstream: lines 161-173
+  Final: lines 179-196
+  Function: mid-training uses MMLU + GSM8K and matching test sets; SFT uses SmolTalk train/test only.
+
+- Stage-specific checkpoint tag
+  Upstream: line 393
+  Final: lines 416-417
+  Function: save mid-training and SFT under separate explicit tags.
+
+- Checkpoint metadata for the next stage
+  Upstream: line 412
+  Final: lines 436-440
+  Function: store resolved device batch size, sequence length and total batch size together with `user_config`.

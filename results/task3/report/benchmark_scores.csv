@@ -1,0 +1,4 @@
+stage,ARC-Easy,ARC-Challenge,GSM8K
+base,26.35,26.02,0.0
+midtrain,25.55,26.79,0.76
+sft,24.87,23.38,0.0

@@ -1,0 +1,4 @@
+dataset,stage,raw_examples,repetitions,stage_contribution
+MMLU auxiliary_train,midtrain,99842,3,299526
+GSM8K train,midtrain,7473,4,29892
+SmolTalk train,sft,460341,1,460341

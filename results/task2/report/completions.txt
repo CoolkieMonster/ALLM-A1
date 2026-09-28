@@ -1,0 +1,38 @@
+Task 2 raw next-token completions
+temperature=0, max_new_tokens=16
+
+========================================================================
+VOCABULARY 8,192 | CHECKPOINT STEP 132
+========================================================================
+[1] Prompt: The capital of France is
+    Prediction: a 200. The 200, 200, 0
+
+[2] Prompt: The chemical symbol of gold is
+    Prediction: a very high-endment of the world's life of the world's life
+
+[3] Prompt: If yesterday was Friday, then tomorrow will be
+    Prediction: the first step in the 2020, the 2020, 20
+
+[4] Prompt: The opposite of hot is
+    Prediction: a good idea of the world's life. The most common causes of the most
+
+[5] Prompt: The planets of the solar system are:
+    Prediction: The first step in the process of the process of the process of the process of
+
+========================================================================
+VOCABULARY 32,768 | CHECKPOINT STEP 420
+========================================================================
+[1] Prompt: The capital of France is
+    Prediction: a great way to make a great way to make a great way to make a
+
+[2] Prompt: The chemical symbol of gold is
+    Prediction: a chemical symbol of gold and gold. The chemical symbol of gold and gold is
+
+[3] Prompt: If yesterday was Friday, then tomorrow will be
+    Prediction: a little more than 100,000,000,000
+
+[4] Prompt: The opposite of hot is
+    Prediction: the most common cause of the most common cause of the most common cause of the
+
+[5] Prompt: The planets of the solar system are:
+    Prediction: the planets that are not the planets that are not the planets. The planets are

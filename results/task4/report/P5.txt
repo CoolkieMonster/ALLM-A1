@@ -1,0 +1,23 @@
+P5
+Prompt:
+Write a short story about a robot finding a flower.
+
+Model: sft/sft-d2, checkpoint step 2869
+top_k=50, seed=42, max_new_tokens=192
+
+Temperature 0.1
+A robot is a type of mystery that requires a delicate balance of complexity and complexity. To achieve this, consider a delicate balance between complexity and complexity, consider the following key elements:
+
+First, consider the following: the robot's size, the robot's size, and the size of the robot's size, and the size of the robot's size, and the size of the robot's size, size, and size. This will help to create a sense of complexity and complexity.
+
+Next, consider the robot's size, size, and size. A robot's size, size, and size, and size, and size, and size, and size. A robot's size, size, and size, and size, it's essential to consider the size and size of the robot's size, size, and size, and size, and size, and size, and size, it's crucial to consider the size and size of the robot's size, size
+
+Temperature 0.7
+A robot with a vast, ethereal sound that led forever. I've seen it hard for me to imagine a robot that's working on a device that's been used to escape the memory of a robot. It's a device that's been used to escape the memory of a robot and is a device that's been used to escape the memory of a robot's device. The robot could be designed to be able to escape the memory of a robot's device, where it's capable of experiencing a physical activity, a robot that's used to escape the memory of an its device to escape the memory of a robot's device that's used to escape the memory of a robot's device. The robot could be designed to be a device that's used to escape the memory of a robot's device that's used to escape the memory of a robot's device is a device that's used to escape the memory of a robot's device to escape the memory
+
+Temperature 1.5
+A robot with a vast range of colors than nature, all it sets with unique colors to color in its sky. As we described earlier, in the dimwood space comes alive, one like a world known as being a giant in light line. This will create a symbiotic relationship between the creatures of all, all must not.
+
+Your protagonist uses their sensory sensory details to taste for and analyzing it – instead their scent and taste to see the world from the environment? What's the human touch magic emanated would, or perhaps? What kind of calming music will be guided by your imagination, as the smell of music, and the environment's rhythms emanate from them?
+
+Iaryinging our protagonistaryings can become familiar with each human's own unique perspective and distinct perspectives. Iarying theses can fill on a warm glass house to understand every detail – is the scent of metal and soul. By setting its unique qualities, characters are often familiar to

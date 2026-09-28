@@ -1,0 +1,21 @@
+P2
+Prompt:
+Why does rain fall from clouds?
+Explain in two short sentences.
+
+Model: sft/sft-d2, checkpoint step 2869
+top_k=50, seed=42, max_new_tokens=96
+
+Temperature 0.1
+In two short sentences, the rain fall from clouds can be a form of rain, where rain is a constant, and the rain is a constant, and the rain is a constant constant. This is because rain is a constant constant, and the rain is constant, and the rain is constant, and the rain is constant, and the rain is constant, and the rain is constant, and the rain is constant, and the rain is constant, and the rain is constant, and
+
+Temperature 0.7
+In two short sentences, the first two short sentences are two different purposes. When two long sentences are short, they differ in their structure, meaning, and a distinct term. The purpose of rain on the surface is to create a, nuanced, and relatable character. The goal of rain on the surface is to create a rich, immersive reading experience, and create a rich, immersive experience for readers.
+
+For example, in two short sentences, the first bullet point in two sentences
+
+Temperature 1.5
+In two examples, the way "tags that go drawn" implies its "tail"
+sence meanings, and usage, whereas "meto of cum." These "stop ending on" typically represent words like "implacing the "implacing the "implacing the "laps" the "optimizing". The "reliable stream"
+sence, action represents that a poorly written "tail"
+sence, as mentioned in this explanation

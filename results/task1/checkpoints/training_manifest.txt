@@ -1,0 +1,7 @@
+Task 1 tokenizer training
+dataset=CLIMBMix train split
+sample_utf8_bytes=500000000
+document_cap_characters=10000
+downloaded_train_shards=8
+requested_vocab_sizes=8192,32768
+completed_vocab_sizes=8192,32768

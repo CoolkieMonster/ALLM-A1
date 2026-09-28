@@ -1,0 +1,19 @@
+Task 2 scaling-law calculation
+
+Vocabulary 8,192
+  N_s = transformer_matrices + lm_head = 393,228 + 1,048,576 = 1,441,804
+  Nanochat target 12*N_s = 17,301,648 tokens
+  Optimizer batch B      = 131,072 tokens
+  Actual horizon D       = 17,301,504 tokens
+  Total parameters N     = 3,538,986
+  Chinchilla ~20*N       = 70,779,720 tokens
+  D / Chinchilla target  = 0.244
+
+Vocabulary 32,768
+  N_s = transformer_matrices + lm_head = 393,228 + 4,194,304 = 4,587,532
+  Nanochat target 12*N_s = 55,050,384 tokens
+  Optimizer batch B      = 131,072 tokens
+  Actual horizon D       = 55,050,240 tokens
+  Total parameters N     = 12,976,170
+  Chinchilla ~20*N       = 259,523,400 tokens
+  D / Chinchilla target  = 0.212

@@ -1,0 +1,7 @@
+Task 3 benchmark accuracy (%)
+evaluation temperature=0.0 (greedy for generative tasks)
+
+stage           ARC-Easy   ARC-Challenge       GSM8K
+base               26.35           26.02        0.00
+midtrain           25.55           26.79        0.76
+sft                24.87           23.38        0.00
